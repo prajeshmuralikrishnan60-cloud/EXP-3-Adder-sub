@@ -19,7 +19,7 @@ half_add_sub_tb.v	Stimulus and VCD generation
 
 ### Verilog Program
 
-## Verilog Program
+
 
 ```verilog
 // gedit half_add_sub.v
@@ -45,7 +45,7 @@ endmodule
 ```
 
 ### Testbench Program
-### Testbench Program
+
 
 ```verilog
 // gedit tb3.v
